@@ -84,7 +84,7 @@
     "webpack": "^4.25.1",
     "webpack-cli": "^3.1.2",
     "webpack-dev-server": "^3.1.10",
-    "yarn": "^1.9.4"
+    "yarn": "^1.17.3"
   },
   "peerDependencies": {
     "moment": "^2.18.1",
