@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>
+    <%= htmlWebpackPlugin.options.title %>
+  </title>
+</head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-16021082-13"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+  let userObj = localStorage.getItem('user');
+  let user = JSON.parse(atob(userObj));
+  gtag('config', 'UA-16021082-13', {
+    'user_id': user.username
+  });
+</script>
+
+<body>
+  <div id="root"></div>
+</body>
+
+</html>

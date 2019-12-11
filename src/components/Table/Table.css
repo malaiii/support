@@ -1,0 +1,62 @@
+.ag-theme-balham .ag-header-cell-label {
+  float: none !important;
+  width: auto !important;
+  justify-content: center;
+}
+.ag-theme-balham .ag-header-cell-menu-button {
+  position: absolute;
+  float: none;
+}
+.ag-theme-balham .ag-header {
+  background-color: #588d92;
+  color: #fff !important;
+}
+.ag-theme-balham .ag-paging-panel {
+  color: #588d92;
+  justify-content: center !important;
+}
+
+.odd-shaded-effect {
+  background: #588d92;
+}
+
+.cell-border-style {
+  border-top-color: rgb(238, 238, 238);
+  border-top-style: solid;
+  border-top-width: 0px;
+  border-right-color: rgb(238, 238, 238);
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-bottom-color: rgb(238, 238, 238);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-left-color: rgb(238, 238, 238);
+  border-left-style: solid;
+  border-left-width: 0px;
+  border-image-source: initial;
+  border-image-slice: initial;
+  border-image-width: initial;
+  border-image-outset: initial;
+  border-image-repeat: initial;
+}
+
+.export-button-style {
+  width: 32px;
+  color: #fff;
+  height: 32px;
+  font-size: 1rem;
+  float: right;
+  position: relative;
+  top: -56px;
+  right: 32px;
+}
+
+.ag-theme-balham .ag-icon-asc {
+  background: url('../../../public/images/svg/asc.svg') no-repeat;
+  background-position-y: center;
+}
+
+.ag-theme-balham .ag-icon-desc {
+  background: url('../../../public/images/svg/desc.svg') no-repeat;
+  background-position-y: center;
+}

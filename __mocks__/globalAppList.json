@@ -1,0 +1,39 @@
+[
+  {
+    "tileContent": [
+      {
+        "name": "Daily Mutual Fund Flows",
+        "url": "https://knowledgecenter.lordabbett.com/dailyflows/",
+        "subApps": []
+      },
+      {
+        "name": "Assets Under Management",
+        "url": "#",
+        "subApps": [
+          { "name": "Report Builder", "url": "https://knowledgecenter.lordabbett.com/aum/report-builder" },
+          { "name": "Key Word Definition", "url": "#" }
+        ]
+      },
+      {
+        "name": "Managed Accounts",
+        "url": "#",
+        "subApps": []
+      }
+    ]
+  },
+  {
+    "tileContent": [
+      {
+        "name": "Product Knowledge Center",
+        "url": "#",
+        "subApps": [
+          { "name": "Mutual Funds Comparison", "url": "#" },
+          { "name": "UCITS Funds Comparison", "url": "#" },
+          { "name": "Composite Comparison", "url": "#" },
+          { "name": "Competitive Analysis", "url": "#" },
+          { "name": "Product News", "url": "#" }
+        ]
+      }
+    ]
+  }
+]

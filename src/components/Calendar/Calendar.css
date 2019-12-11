@@ -1,0 +1,21 @@
+div.calendar-container {
+    padding: 5px;
+    background-color: #044e35;
+    color: #ffffff;
+    display: inline-block;
+    cursor: pointer;
+}
+
+div.calendar-container div {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+div.calendar-container .selected-date {
+    margin-right: 5px;
+}
+
+.inline-picker input,
+.inline-picker button {
+    color: white;
+}
