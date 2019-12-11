@@ -7,7 +7,7 @@ export default theme => (
       width: "90px !important"
     },
     DateInput_input: {
-      fontFamily: "DinProRegular, sans-serif",
+      fontFamily: "OpenSansRegular, sans-serif",
       fontSize: "13px",
       padding: "5px",
       lineHeight: "15px",

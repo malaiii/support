@@ -4,10 +4,10 @@ export default theme => ({
     minHeight: 40
   },
   colorPrimary: {
-    backgroundColor: theme.palette.grey[900]
+    backgroundColor: '#353843'
   },
   toolbarRoot: {
-    height: 40,
+    height: 80,
     minHeight: 0
   },
   logo: {
@@ -18,9 +18,6 @@ export default theme => ({
     width: 3,
     height: 20,
     backgroundColor: theme.palette.primary.main
-  },
-  text: {
-    textTransform: "uppercase"
   },
   kcLabel: {
     marginLeft: 24
@@ -40,7 +37,7 @@ export default theme => ({
     width: 200,
     marginRight: 10,
     fontFamily: [
-      'DinProRegular',
+      'OpenSansRegular',
       'sans-serif'
     ],
     fontSize: 14

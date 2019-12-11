@@ -1,5 +1,5 @@
 .DateInput_input{
-  font-family: DinProRegular, sans-serif;
+  font-family: OpenSansRegular, sans-serif;
   font-size: 13px;
    padding: 5px 5px 0px;
    line-height: 21px
@@ -17,7 +17,7 @@
   margin: 0px 20px 0 15px;
 }
 .CalendarMonth{
-  font-family: DinProRegular, sans-serif;
+  font-family: OpenSansRegular, sans-serif;
 }
 .DateInput__small{
   width: 76px !important;

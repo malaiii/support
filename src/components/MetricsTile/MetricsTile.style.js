@@ -8,7 +8,7 @@ export default theme => ({
     width: 250,
     marginRight: 41,
     fontFamily: [
-      'DinProRegular',
+      'OpenSansRegular',
       'sans-serif'
     ],
     fontSize: 14,
@@ -48,7 +48,7 @@ export default theme => ({
   },
   collapsedLegend: {
     fontSize: '14px',
-    fontFamily: 'DinProRegular, sans-serif',
+    fontFamily: 'OpenSansRegular, sans-serif',
     fontWeight: 400,
   },
   alignRight: {
@@ -67,7 +67,7 @@ export default theme => ({
   fontBold: {
     fontSize: "13px",
     fontWeight: 700,
-    fontFamily: 'DinProRegular, sans-serif',
+    fontFamily: 'OpenSansRegular, sans-serif',
   },
   overAllIncentiveTier: {
     width: '16px',
@@ -89,7 +89,7 @@ export default theme => ({
   },
   legendsContainer: {
     fontSize: '14px',
-    fontFamily: 'DinProRegular, sans-serif',
+    fontFamily: 'OpenSansRegular, sans-serif',
     fontWeight: 400,
     display: 'flex',
     alignItems: 'center',
@@ -107,7 +107,7 @@ export default theme => ({
     display: "flex",
     flexDirection: "column",
     justifyContent: "center",
-    fontFamily: 'DinProRegular, sans-serif',
+    fontFamily: 'OpenSansRegular, sans-serif',
   },
   mainContainer: {
     padding: "4px 48px",

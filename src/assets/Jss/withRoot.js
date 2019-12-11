@@ -28,7 +28,7 @@ export const theme = createMuiTheme({
   },
   typography: {
     fontFamily: [
-      'DinProRegular',
+      'OpenSansLight',
       'sans-serif'
     ],
     fontSize: 14,

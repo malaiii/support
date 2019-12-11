@@ -8,7 +8,7 @@ export default theme => ({
     width: 250,
     marginRight: 41,
     fontFamily: [
-      'DinProRegular',
+      'OpenSansRegular',
       'sans-serif'
     ],
     fontSize: 14,
