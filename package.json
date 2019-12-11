@@ -31,7 +31,7 @@
     "date-fns": "2.0.0-alpha.21",
     "dotenv-webpack": "^1.7.0",
     "jss": "^9.8.7",
-    "lodash": "^4.1.1",
+    "lodash": "^4.17.13",
     "material-ui-pickers": "^2.0.2",
     "prop-types": "^15.6.2",
     "react": "^16.6.3",
